@@ -1,7 +1,7 @@
 # RecruitSys
 基于SpringBoot框架的求职招聘系统
 
-演示视频链接：https://live.csdn.net/v/187215
+演示视频链接：https://live.csdn.net/v/277084
 
 项目前后端分离，后端是基于springboot框架，前端是Vue.
 
