@@ -3,7 +3,7 @@
 
 演示视频链接：https://live.csdn.net/v/277084
 
-项目前后端分离，后端是基于springboot框架，前端是Vue.
+项目前后端分离，后端是基于SpringBoot框架，MySQL数据库，前端是Vue.
 
 系统分为三种角色：管理员、求职者和企业用户。
 
