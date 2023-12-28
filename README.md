@@ -13,5 +13,4 @@
 
 企业用户：注册登录、可以发布招聘信息、修改企业信息、和求职者在线交流。
 
-
-详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 ，承接商业项目和毕设
+详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 。承接商业项目、毕设和论文，包括但不限于Web、APP、小程序等，提供远程部署和不限次数代码解答！
