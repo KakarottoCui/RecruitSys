@@ -3,7 +3,7 @@
 
 演示视频链接：https://live.csdn.net/v/277084
 
-项目前后端分离，后端是基于SpringBoot框架，MySQL数据库，前端是Vue.
+项目前后端分离，后端是基于JAVA语言的SpringBoot框架，MySQL数据库，前端是Vue.
 
 系统分为三种角色：管理员、求职者和企业用户。
 
@@ -13,4 +13,4 @@
 
 企业用户：注册登录、可以发布招聘信息、修改企业信息、和求职者在线交流。
 
-详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 。承接商业项目、毕设和论文，包括但不限于Web、APP、小程序等，提供远程部署和不限次数代码解答！
+详询 微信1：egvh56ufy7hh ，微信2：dabocode ，钉钉：chengxuyuandabo ，QQ：821898835 。承接商业项目、课设、毕设和论文，包括但不限于Web、APP、小程序等，课设、毕设提供远程部署和不限次数代码解答！
